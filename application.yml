@@ -1,0 +1,3 @@
+# application.yml
+myapp:
+  message: "Hello from Spring Cloud Config Server!"
